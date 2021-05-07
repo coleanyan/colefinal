@@ -21,5 +21,5 @@ the rest of my life.
 
 
 
-[Previous Page](readme.md)		[Next Page](page3.md)
+[Previous Page](README.md)		[Next Page](page3.md)
 
