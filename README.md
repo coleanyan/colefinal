@@ -1,5 +1,5 @@
 # About Cole Anyan
-# By Cole Anyan     [My Picture](MYIMAGE.jpg)     
+# By Cole Anyan     ![My Picture](https://github.com/coleanyan/colefinal/blob/main/MYIMAGE.jpg)    
 
 ## Basics About me    
 
